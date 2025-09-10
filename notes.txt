@@ -1,0 +1,3 @@
+window this self frames : all point to same global obj in browser
+global : for node js
+globalThis : for both node and browser
