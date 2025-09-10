@@ -2,4 +2,8 @@ window this self frames : all point to same global obj in browser
 global : for node js
 globalThis : for both node and browser
 
-modules protect their variables and functions from leaking, simple require can't do it. we have to do module.exports
+modules protect their variables and functions from leaking, simple require can't do it. we have to do module.exports [ synchronous]
+new way is es modules [this is asynchronous]
+
+es modules : .mjs -- strict
+common js : .cjs -- non strict 
