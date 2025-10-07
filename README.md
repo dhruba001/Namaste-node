@@ -1,5 +1,5 @@
 # Namaste-node
 
-Codes for node js from namaste node course
+Codes for node js from namaste node course.
 
-repl - read evaluate primt loop
+repl - read evaluate primt loop;
