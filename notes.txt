@@ -7,3 +7,6 @@ new way is es modules [this is asynchronous]
 
 es modules : .mjs -- strict
 common js : .cjs -- non strict 
+
+IIFE -- immediately invoked function expression
+(function () {})(); 
